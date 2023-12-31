@@ -3,3 +3,7 @@ Gorialla LLM - The API Store Experiment/Example Script which connects with Massi
 
 # What is Gorilla LLM Model
 https://gorilla.cs.berkeley.edu/
+
+# Output
+
+![Alt text](image.png)
