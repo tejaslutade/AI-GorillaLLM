@@ -6,7 +6,7 @@ import subprocess
 import time
 
 #Berkeley API
-openai.api_key = "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"
+openai.api_key = "<your_api_key>"
 openai.api_base = "http://zanino.millennium.berkeley.edu:8000/v1"
 
 #Query Gorilla Server
