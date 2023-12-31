@@ -4,6 +4,9 @@ Gorialla LLM - The API Store Experiment/Example Script which connects with Massi
 # What is Gorilla LLM Model
 https://gorilla.cs.berkeley.edu/
 
+# Run App
+streamlit run <app_name.py>
+
 # Output
 
 ![Alt text](image.png)
